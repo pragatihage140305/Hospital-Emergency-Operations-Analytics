@@ -1,4 +1,4 @@
-
+-- IMPORT DATA
 
 COPY patients (patient_id, patient_name, age, gender, city)
 FROM 'C:\Users\Acer\Desktop\My_Projects\Hospital-Emergency-Operations-Analytics\data'
